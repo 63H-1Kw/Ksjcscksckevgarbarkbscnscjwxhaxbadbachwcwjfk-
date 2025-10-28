@@ -1,7 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Nyxarth910/Draconic-Hub-X/refs/heads/main/files/Evade/Overhaul.lua'))()
-
-loadstring(game:HttpGet('https://github.com/63H-1Kw/Ksjcscksckevgarbarkbscnscjwxhaxbadbachwcwjfk-/blob/main/Fuck'))()
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/63H-1Kw/Ksjcscksckevgarbarkbscnscjwxhaxbadbachwcwjfk-/refs/heads/main/LOMKRnygeT0NFmSa3G4NddQFY-E-O.txt'))()
 local KeylessMode = true 
 return KeylessMode
