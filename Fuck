@@ -1,7 +1,2 @@
-local KeylessMode = false
-local fake_wday = 7
-if fake_wday == 7 or fake_wday == 1 or fake_wday == 2 then
-    KeylessMode = true
-end
-
+local KeylessMode = true 
 return KeylessMode
