@@ -1,3 +1,8 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Nyxarth910/Draconic-Hub-X/refs/heads/main/files/Evade/Overhaul.lua'))()
-local KeylessMode = true 
+local KeylessMode = false
+local fake_wday = 7 -- pretend it's Saturday
+
+if fake_wday == 7 or fake_wday == 1 or fake_wday == 2 then
+    KeylessMode = true
+end
+
 return KeylessMode
